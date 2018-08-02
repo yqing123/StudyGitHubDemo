@@ -5,4 +5,4 @@ Show how to use GitHub
 
 2
 
-3
+3 - 1
